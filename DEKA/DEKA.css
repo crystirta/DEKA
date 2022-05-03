@@ -30,7 +30,6 @@ img.logo{
 .family{
     font-family: 'Fira Sans', sans-serif;
     border: transparent;
-
 }
 
 .infoo1{
@@ -38,7 +37,7 @@ img.logo{
     font-size: 3vw;
     stroke:#000000;
     padding-left: 20px;
-    padding-right: 30px;
+    padding-right: 20px;
     padding-top: 30px;
     vertical-align: top;
     font-family: 'Fira Sans', sans-serif;
