@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap');   
+   
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Fira Sans', sans-serif;
+    color: aliceblue;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(139, 37, 37);
+    height: 100vh;
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+img.logo{
+    width: 40vw;
+    padding: 9px;
+    filter: drop-shadow(0 0 15px #000000);
+    border-radius: 5vw;
+    text-align: left;
+    vertical-align: top;
+}
+
+.family{
+    font-family: 'Fira Sans', sans-serif;
+    border: transparent;
+
+}
+
+.infoo1{
+    text-align: left;
+    font-size: 3vw;
+    stroke:#000000;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 30px;
+    vertical-align: top;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h3{
+    color: aliceblue;
+}
+
+h3.detail{
+    margin-top: 8vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    font-size: 3vw;
+    text-align: left;
+}
+
+img{
+    text-align: center;
+    width: 25px;
+}
+
+img.harga{
+    margin-top: 8vw;
+    width: 80vw;
+    border-radius: 5vw;
+    text-align: center;
+    filter: drop-shadow(0 0 15px black);
+
+}
+
+h3.detail1{
+    margin-top: 9vw;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 3vw;
+    text-align: left;
+}
+
+h3.jam{
+    font-size: 4vw;
+    text-align: center;
+}
+
+h2.info{
+    text-align: center;
+    margin: 0%;
+    padding-top: 5px;
+    margin-top: 20px;
+}
+
+img.info{
+    width: 25vw;
+    border: solid 1vw black;
+    margin-bottom: 5vw;
+    border-radius: 5vw;
+    vertical-align: top;
+    margin-top: 3vw;
+    height: 25vw;
+}
+
+img.info1{
+    width: 25vw;
+    margin-bottom: 5vw;
+    border-radius: 5vw;
+    border: solid 1vw black;
+    vertical-align: top;
+    margin-top: 3vw;
+    height: 25vw;  
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+img.info2{
+    width: 25vw;
+    margin-bottom: 5vw;
+    border-radius: 5vw;
+    border: solid 1vw black;
+    vertical-align: top;
+    margin-top: 3vw;
+    height: 25vw;  
+}
+
+h6{
+    text-decoration: none;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+img.fotoo1{
+    width: 5vw;
+    padding: 3vw;
+
+}
+
+img.fotoo1:hover{
+    filter: drop-shadow(0 0 10px black);
+    width: 6vw;
+}
